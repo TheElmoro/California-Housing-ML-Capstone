@@ -1,0 +1,15 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (Do not upload raw datasets)
+*.csv
+*.data
+*.zip
+
+# System files
+.DS_Store
